@@ -1,46 +1,46 @@
 / Mengatur gaya dasar seluruh halaman web */
  body {
-background-color: #00CED1; 3
-font-family: Arial, sans-serif; 4
- color: #00BFFF;
-}
-/ Mengatur wadah paling luar agar teksnya rata tengah */
- .wadah-utama {
- text-align: center;
-}
-/ Menghias bagian judul */
- .judul h1 {
- color: #696969;
- }
+ background-color: #00CED1; 3
+ font-family: Arial, sans-serif; 4
+  color: #00BFFF;
+  }
+  / Mengatur wadah paling luar agar teksnya rata tengah */
+   .wadah-utama {
+    text-align: center;
+    }
+    / Menghias bagian judul */
+     .judul h1 {
+      color: #696969;
+       }
 
-/ Membuat tampilan kotak Biodata seperti "Kartu" */
-.kartu-biodata {
- background-color: white;
-width: 90%; 21
-max-width: 400px;
- margin: auto;
- border-style: solid;
- border-color: #3498db;
- border-radius: 15px;
- }
+       / Membuat tampilan kotak Biodata seperti "Kartu" */
+       .kartu-biodata {
+        background-color: white;
+        width: 90%; 21
+        max-width: 400px;
+         margin: auto;
+          border-style: solid;
+           border-color: #3498db;
+            border-radius: 15px;
+             }
 
-/ Menghias judul di dalam kartu */
-.kartu-biodata h2 {
- background-color: #FFFAF0;
- color: rgb(117, 30, 30);
- }
+             / Menghias judul di dalam kartu */
+             .kartu-biodata h2 {
+              background-color: #FFFAF0;
+               color: rgb(117, 30, 30);
+                }
 
-/ Menghias foto profil agar bentuknya lingkaran dan kekinian */
-.bungkus-foto img {
-width: 120px; 37
- height: 120px;
- border-style: solid;
- border-color: #3498db;
- border-radius: 50%;
-}
+                / Menghias foto profil agar bentuknya lingkaran dan kekinian */
+                .bungkus-foto img {
+                width: 120px; 37
+                 height: 120px;
+                  border-style: solid;
+                   border-color: #3498db;
+                    border-radius: 50%;
+                    }
 
-/ Mengatur teks biodata agar rapi dan rata kiri */
- informasi-diri {
-     text-align: left;
-font-size: 14px;
+                    / Mengatur teks biodata agar rapi dan rata kiri */
+                     informasi-diri {
+                          text-align: left;
+                          font-size: 14px;
 }
